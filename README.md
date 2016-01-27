@@ -1,2 +1,1 @@
-#批量添加/删除用户（For RHEL/CentOS）
-###2013年写的脚本
+##批量添加/删除用户帐号（For RHEL/CentOS）
